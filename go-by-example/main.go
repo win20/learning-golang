@@ -8,5 +8,7 @@ func main() {
 	// For()
 	// IfElse()
 	// Switch()
-	Arrays()
+	// Arrays()
+	// Slices()
+	Maps()
 }
