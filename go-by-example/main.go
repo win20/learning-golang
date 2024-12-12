@@ -16,5 +16,6 @@ func main() {
 	// VariadicFunctions()
 	// Closures()
 	// Recursion()
-	RangeOverBuiltInTypes()
+	// RangeOverBuiltInTypes()
+	Pointers()
 }
