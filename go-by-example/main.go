@@ -10,5 +10,11 @@ func main() {
 	// Switch()
 	// Arrays()
 	// Slices()
-	Maps()
+	// Maps()
+	// Functions()
+	// MultipleReturnValues()
+	// VariadicFunctions()
+	// Closures()
+	// Recursion()
+	RangeOverBuiltInTypes()
 }
