@@ -17,5 +17,7 @@ func main() {
 	// Closures()
 	// Recursion()
 	// RangeOverBuiltInTypes()
-	Pointers()
+	// Pointers()
+	// StringsAndRunes()
+	Structs()
 }
