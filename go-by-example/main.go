@@ -19,5 +19,6 @@ func main() {
 	// RangeOverBuiltInTypes()
 	// Pointers()
 	// StringsAndRunes()
-	Structs()
+	// Structs()
+	Methods()
 }
