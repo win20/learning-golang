@@ -22,5 +22,6 @@ func main() {
 	// Structs()
 	// Methods()
 	// Interfaces()
-	Enums()
+	// Enums()
+	StructEmbedding()
 }
