@@ -20,5 +20,7 @@ func main() {
 	// Pointers()
 	// StringsAndRunes()
 	// Structs()
-	Methods()
+	// Methods()
+	// Interfaces()
+	Enums()
 }
