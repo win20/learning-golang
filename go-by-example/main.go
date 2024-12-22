@@ -24,5 +24,6 @@ func main() {
 	// Interfaces()
 	// Enums()
 	// StructEmbedding()
-	Generics()
+	// Generics()
+	RangeOverIterators()
 }
