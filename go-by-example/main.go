@@ -25,5 +25,6 @@ func main() {
 	// Enums()
 	// StructEmbedding()
 	// Generics()
-	RangeOverIterators()
+	// RangeOverIterators()
+	Errors()
 }
