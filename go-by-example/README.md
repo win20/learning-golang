@@ -3,3 +3,5 @@
 - Enums
 - Generics
 - Iterators
+- Goroutines
+- WaitGroup

@@ -26,5 +26,7 @@ func main() {
 	// StructEmbedding()
 	// Generics()
 	// RangeOverIterators()
-	Errors()
+	// Errors()
+	// CustomErrors()
+	Goroutines()
 }
