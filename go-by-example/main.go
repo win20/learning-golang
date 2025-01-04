@@ -28,5 +28,6 @@ func main() {
 	// RangeOverIterators()
 	// Errors()
 	// CustomErrors()
-	Goroutines()
+	// Goroutines()
+	Channels()
 }
