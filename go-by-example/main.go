@@ -29,5 +29,7 @@ func main() {
 	// Errors()
 	// CustomErrors()
 	// Goroutines()
-	Channels()
+	// Channels()
+	// ChannelBuffering()
+	ChannelSynchronization()
 }
