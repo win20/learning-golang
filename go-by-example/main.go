@@ -31,5 +31,6 @@ func main() {
 	// Goroutines()
 	// Channels()
 	// ChannelBuffering()
-	ChannelSynchronization()
+	// ChannelSynchronization()
+	ChannelDirections()
 }

@@ -19,4 +19,3 @@ func ChannelSynchronization() {
 
 	<-done
 }
-
