@@ -32,5 +32,7 @@ func main() {
 	// Channels()
 	// ChannelBuffering()
 	// ChannelSynchronization()
-	ChannelDirections()
+	// ChannelDirections()
+	// Select()
+	Timeouts()
 }
