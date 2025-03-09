@@ -35,5 +35,7 @@ func main() {
 	// ChannelDirections()
 	// Select()
 	// Timeouts()
-	NonBlockingChannelOperations()
+	// NonBlockingChannelOperations()
+	// ClosingChannels()
+	RangeOverChannels()
 }
