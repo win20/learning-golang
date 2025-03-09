@@ -37,5 +37,6 @@ func main() {
 	// Timeouts()
 	// NonBlockingChannelOperations()
 	// ClosingChannels()
-	RangeOverChannels()
+	// RangeOverChannels()
+	Timers()
 }
