@@ -38,5 +38,7 @@ func main() {
 	// NonBlockingChannelOperations()
 	// ClosingChannels()
 	// RangeOverChannels()
-	Timers()
+	// Timers()
+	// Tickers()
+	WorkerPools()
 }
