@@ -40,5 +40,6 @@ func main() {
 	// RangeOverChannels()
 	// Timers()
 	// Tickers()
-	WorkerPools()
+	// WorkerPools()
+	Waitgroups()
 }
