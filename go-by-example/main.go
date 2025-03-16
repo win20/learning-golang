@@ -42,5 +42,6 @@ func main() {
 	// Tickers()
 	// WorkerPools()
 	// Waitgroups()
-	RateLimiting()
+	// RateLimiting()
+	Mutexes()
 }
